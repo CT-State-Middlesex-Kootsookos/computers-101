@@ -14,6 +14,8 @@ kernelspec:
 
 # What is a computer?
 
+A computer is any electronic device that stores and processes information: a desktop, a laptop, a cell phone, or a tablet. Some computers are "embedded" like Alexa or Google Home.
+
 A computer consists of:
 
 - A **screen** or display to allow text, images, and colors to be shown,
@@ -40,18 +42,17 @@ A computer consists of:
 :align: center
 ```
 
-
 - A **mouse** or other pointing device to allow selection of things on the screen,
 
 ```{index} mouse
 
 ```
+
 ```{image} ./images/mouse.jpg
 :alt: mouse
 :width: 300px
 :align: center
 ```
-
 
 - A **case** to hold it all together, and
 
