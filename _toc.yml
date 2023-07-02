@@ -4,5 +4,5 @@
 format: jb-book
 root: intro
 chapters:
-  - file: first_lesson
+  - file: what_is_a_computer
   - file: genindex
