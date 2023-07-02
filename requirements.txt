@@ -1,0 +1,7 @@
+jupyter-book
+matplotlib
+numpy
+schemdraw
+jupytext
+jupyterquiz
+docutils==0.17.1
