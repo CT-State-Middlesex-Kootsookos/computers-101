@@ -19,7 +19,7 @@ app
   An app or application is a computer program.
 
 authenticator
-  An app that provides a way to do [two factor authentication](#term-two-factor-authentication). Examples are {cite:ts}`appduoauthenticator`, {cite:ts}`appmicrosoftauthenticator`, and {cite:ts}`appgoogleauthenticator`.
+  An app that provides a way to do [two factor authentication](#term-two-factor-authentication). Examples are {cite:ts}`appduoauthenticator`, {cite:ts}`appmicrosoftauthenticator`, and {cite:ts}`appgoogleauthenticator` .
 
 case
   A case is the box that all the parts of the computer are kept in.
