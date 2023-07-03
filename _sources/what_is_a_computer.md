@@ -14,7 +14,7 @@ kernelspec:
 
 # What is a computer?
 
-A computer is any electronic device that stores and processes information: a desktop, a laptop, a cell phone, or a tablet. Some computers are "embedded" like Alexa or Google Home.
+A computer is any electronic device that stores and processes information: a desktop, a laptop, a cell phone, or a tablet. Some computers are "embedded" like Alexa or Google Home. Embedded computers are part of the "internet of things" (IOT).
 
 A computer consists of:
 
@@ -60,7 +60,7 @@ A computer consists of:
 
 ```
 
-- Other Peripherals like USB ports, ethernet, microphone.
+- Other **[peripherals](glossary.html#term-peripheral)** like USB ports, ethernet, microphone.
 
 ```{index} USB
 
