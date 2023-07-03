@@ -7,3 +7,4 @@ jupyterquiz
 docutils==0.17.1
 ghp-import
 qrcode
+pyppeteer
