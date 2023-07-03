@@ -25,7 +25,7 @@ display
   See [screen](#term-screen).
 
 internet
-  The internet is the connections between all the different computer networks.
+  The internet is the network of networks connecting computers with each other.
 
 internet of things
   The internet of things describes how many mundane things now have computers in them and need to be connected to the internet.
