@@ -18,7 +18,7 @@ A computer is any electronic device that stores and processes information: a des
 
 A computer consists of:
 
-- A **screen** or display to allow text, images, and colors to be shown,
+- A [**screen**](glossary.html#term-screen) or display to allow text, images, and colors to be shown,
 
 ```{index} screen
 
@@ -42,7 +42,7 @@ A computer consists of:
 :align: center
 ```
 
-- A **mouse** or other pointing device to allow selection of things on the screen,
+- A [**mouse**](glossary.html#term-mouse) or other pointing device to allow selection of things on the screen,
 
 ```{index} mouse
 
@@ -66,8 +66,3 @@ A computer consists of:
 
 ```
 
-## References
-
-```{bibliography} ./references.bib
-:filter: docname in docnames
-```
