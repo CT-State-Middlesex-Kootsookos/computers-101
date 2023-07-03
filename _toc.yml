@@ -4,7 +4,11 @@
 format: jb-book
 root: intro
 chapters:
-  - file: what_is_a_computer
+  - file: 01_what_is_a_computer
+  - file: 02_what_is_the_desktop
+  - file: 03_what_are_backups
+  - file: 04_what_are_streaming_services
+  - file: videos
   - file: glossary
   - file: references
   - file: genindex

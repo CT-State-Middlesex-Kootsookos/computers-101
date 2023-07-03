@@ -16,7 +16,7 @@ kernelspec:
 
 ```{glossary}
 app
-  An app or application is a computer program.
+  An app, short for application, is something that makes the computer do things.
 
 authenticator
   An app that provides a way to do [two factor authentication](#term-two-factor-authentication). Examples are {cite:ts}`appduoauthenticator`, {cite:ts}`appmicrosoftauthenticator`, and {cite:ts}`appgoogleauthenticator` .
@@ -24,8 +24,14 @@ authenticator
 case
   A case is the box that all the parts of the computer are kept in.
 
+cursor
+  A cursor is a graphical indication of where input is to be delivered. One kind of cursor is the mouse cursor. This is where the mouse or other pointing device is currently pointing. Another kind of cursor is the text cursor. This is where keys typed on a keyboard will be put.
+
 cybersecurity
   Cybersecurity is what you do on a computer to implement [security](#term-security).
+
+desktop
+  The desktop is the start screen on most computers. On tablets and phones, this is sometimes called the home screen.
 
 display
   See [screen](#term-screen).
@@ -40,10 +46,16 @@ IOT
   The [Internet Of Things](#term-internet-of-things).
 
 mouse
-  A mouse is pointing device used to move the onscreen cursor around. Sometimes this takes the form of a touchpad or trackpad built into a laptop instead of a separate device.  Some computers have touch sensitive screens so this function can be done using your fingers.
+  A mouse is pointing device used to move the onscreen [cursor](#term-cursor) around. Sometimes this takes the form of a touchpad or trackpad built into a laptop instead of a separate device.  Some computers have touch sensitive screens so this function can be done using your fingers.
+
+operating system
+   The operating system is the software that glues the computer's hardware to its apps.
 
 peripheral
   A peripheral is an added component to a computer. Examples of peripherals are external drives, web cameras, printers, and scanners.
+
+program
+  See [app](#term-app).
 
 QR code
   A QR code is an image that can be scanned by a computer or phone to give extra information, often a URL.
