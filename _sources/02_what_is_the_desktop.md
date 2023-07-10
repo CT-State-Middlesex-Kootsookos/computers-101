@@ -24,7 +24,7 @@ The Apple computer desktop looks like this.
 
 ```{image} ./images/desktop_macos.png
 :alt: Apple computer desktop.
-:height: 500px
+:width: 75%
 :align: center
 ```
 
@@ -32,7 +32,7 @@ The Windows computer desktop looks like this.
 
 ```{image} ./images/desktop_windows.png
 :alt: Windows desktop.
-:height: 500px
+:width: 75%
 :align: center
 ```
 
@@ -40,7 +40,7 @@ The Apple phone home screen looks like this.
 
 ```{image} ./images/desktop_ios.jpg
 :alt: Apple phone home screen.
-:height: 500px
+:width: 75%
 :align: center
 ```
 
@@ -54,12 +54,12 @@ The task bar or dock is where apps are where the most-used functions of a comput
 
 ```{image} ./images/task_bar_windows.png
 :alt: Windows task bar.
-:width: 300px
+:width: 75%
 :align: center
 ```
 
 ```{image} ./images/task_bar_macos.png
 :alt: MacOS task bar.
-:width: 300px
+:width: 75%
 :align: center
 ```
