@@ -41,6 +41,10 @@ There is a well-known joke in IT circles that comes from the show [*The IT Crowd
 
 Unfortunately, this joke is funny because it's often true.
 
+Turn off the computer. Perhaps even unplug it if that's easy to do. Wait for at least 30 seconds.  Check that all lights and LEDs are out. Plug the computer back in and turn it on again.
+
+**Restart the computer.**
+
 ## Check the cables
 
 ## Check the paper
